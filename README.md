@@ -1,2 +1,0 @@
-# IceCreamStore
-Created with CodeSandbox

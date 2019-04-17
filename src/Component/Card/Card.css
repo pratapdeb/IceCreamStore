@@ -1,0 +1,30 @@
+.innerDiv {
+  width: 100px;
+  height: 130px;
+  box-shadow: 0px 8px 60px #ddd;
+  text-align: center;
+  padding: 10px;
+}
+.innerDiv:hover .btnCon {
+  opacity: 1;
+}
+
+.btnCon {
+  transition: all 0.5s;
+  margin-top: 05%;
+  opacity: 0;
+  box-shadow: 0px 8px 60px #333;
+  text-align: center;
+  padding-left: 5px;
+}
+.btnCon a {
+  color: #e1efe6;
+  text-decoration: none;
+}
+
+img {
+  width: 100px;
+
+  height: 100px;
+  overflow: hidden;
+}

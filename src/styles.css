@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+li {
+  list-style: none;
+  display: inline;
+  margin: 10px;
+}
+.Header a {
+  color: #fcddbc;
+  text-decoration: none;
+  cursor: pointer;
+}
+.Header {
+  background-color: #25283d;
+  height: 30px;
+  padding: 1px 13px 21px;
+
+  position: absolute;
+  width: 100%;
+  top: 10px;
+}
